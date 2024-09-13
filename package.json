@@ -1,0 +1,15 @@
+{
+    "name": "block-slots",
+    "author": "elf02",
+    "description": "",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "wp-scripts start --webpack-src-dir=src --output-path=build",
+        "build": "wp-scripts build --webpack-src-dir=resources --output-path=build"
+    },
+    "devDependencies": {
+        "@wordpress/scripts": "^28.5.0",
+        "path": "^0.12.7",
+        "webpack-remove-empty-scripts": "^1.0.4"
+    }
+}
