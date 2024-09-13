@@ -2,9 +2,10 @@
 
 /**
  * Plugin Name:       Block Slots
- * Description:       A WordPress Gutenberg plugin to output Blocks from a CPT "Block Slots".
+ * Description:       A WordPress Gutenberg plugin to output blocks from a CPT "Block Slots".
  * Version:           1.0.0
  * Author:            elf02
+ * Author URI:        https://elf02.de
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       elf02-block-slots
